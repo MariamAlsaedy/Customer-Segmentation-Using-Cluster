@@ -1,2 +1,3 @@
 # Customer-Segmentation-Using-Cluster
 modern businesses rely on customer categorization or segmentation to provide highly personalized services to their customers. 
+By categorizing customers, businesses can structure their services and products around their needs and preferences, and target them more effectively to generate more revenue. In this context, clustering techniques such as k-means clustering can be used on datasets like the Mall dataset to group customers into meaningful clusters based on their purchasing behavior or other relevant factors. This allows businesses to gain valuable insights into customer behavior and preferences, and tailor their marketing strategies and offerings accordingly.
